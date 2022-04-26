@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning Front end and Backend
+- 🌱 I’m currently learning Front end
 .
 
 
