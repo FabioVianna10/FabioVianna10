@@ -3,7 +3,22 @@
 
 
 
-- 🌱 I’m currently learning Front end
+- 🌱   Hello guys 
+
+I'm 30 years old and I'm studying of 4 semmester of systems  analysis and development.
+Below are my skills and the technologies I'am currently  studying.
+
+Skills:
+HTML
+CSS
+JAVASCRIPT
+GIT/GITHUB
+
+Studyng:
+NODE JS
+C#
+SQL
+
 .
 
 
