@@ -5,23 +5,22 @@
 
 - 🌱   Hello guys 
 
-I'm 30 years old and I'm studying of 4 semmester of systems  analysis and development.
-Below are my skills and the technologies I'am currently  studying.
+I'm 30 years old and I'm studying of 5 semmester of systems  analysis and development.
+Below are my skills.
 
 Skills:
 HTML
 CSS
 JAVASCRIPT
+REACT
+NEXTJS
+NODEJS
+EXPRESS
+MONGODB
+MYSQL
 GIT/GITHUB
 
-Studyng:
-NODE JS, EXPRESS
-C#
-SQL
-REACT
-TYPESCRIPT
 
-.
 
 
 
