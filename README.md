@@ -5,7 +5,7 @@
 
 - 🌱   Hello guys 
 
-I'm 30 years old and I'm studying of 5 semmester of systems  analysis and development.
+"I am 31 years old and have a degree in Systems Analysis and Development."
 Below are my skills.
 
 Skills:
